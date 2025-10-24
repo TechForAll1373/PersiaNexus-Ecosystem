@@ -14,16 +14,15 @@ Your support fuels innovation, privacy, and digital sovereignty for Persian spea
   - [Lumina Crypto Portal](https://techforall1373.github.io/lumina-crypto-portal/)  
   - [Cafe Persians Password Generator](https://techforall1373.github.io/cafe-persians-password-gen/)
 
+- **✅ Verified Crypto Donation Hub**  
+  [Official Wallet Addresses (15+ Chains)](https://techforall1373.github.io/CryptoDonation-Hub/)
+
 ## 💰 Donate via Digital Assets
 
-| Network | Address |
-|--------|--------|
-| **Bitcoin (BTC)** | `bc1q...` *(add your BTC address)* |
-| **Ethereum (ETH)** | `0x...` *(add your ETH address)* |
-| **TON** | `EQ...` *(add your TON address)* |
-| **TRON (TRX)** | `T...` *(add your TRX address)* |
+All verified wallet addresses are hosted at:  
+🔗 **[https://techforall1373.github.io/CryptoDonation-Hub/](https://techforall1373.github.io/CryptoDonation-Hub/)**
 
-> 🔐 All transactions are **non-custodial** — you retain full control.
+> 🔐 These addresses are **immutable, authenticated, and manually verified**. Always use this official hub to avoid scams.
 
 ## 🤝 Partner & Collaborate
 
