@@ -1,0 +1,19 @@
+# Build & Cache
+dist/
+build/
+.cache/
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Env & Secrets
+.env
+*.key
+*.pem
+
+# OS
+Thumbs.db
+*.tmp
